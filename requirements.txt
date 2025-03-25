@@ -1,7 +1,5 @@
-docx
 streamlit
 scikit-learn
-pandas
 numpy
+pandas
 python-docx
-pickle5
